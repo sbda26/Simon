@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Simon_Windows.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GameOverOpacity" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">0.25</Value>
+    </Setting>
+    <Setting Name="GameOnOpacity" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="GameOverDuration" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">0.25</Value>
+    </Setting>
+    <Setting Name="GameOnDuration" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">0.5</Value>
+    </Setting>
+    <Setting Name="HighScore" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
